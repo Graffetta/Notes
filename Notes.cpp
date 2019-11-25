@@ -15,7 +15,6 @@ void ClearNotes(std::vector<std::string>&);
 
 int main()
 {
-	Logger.Verbose("Creating notes vector.");
 	std::vector<std::string> Notes;
 
 	bool Exit = false;
